@@ -12,7 +12,7 @@ I participated in the **TechOlympics AI NLP** competition hosted on [Quera](http
 ## Achievements:
 - **Rank**: 50th out of 400 participants
 - **Focus Area**: Natural Language Processing (NLP)
-- **Competition Date**: [Insert Date Here]
+- **Competition Date**: [1403/7/5]
 
 This README serves as a brief overview of my participation and the results I achieved during the competition.
 
